@@ -1,38 +1,34 @@
 <h1>Hello world 👋🏾</h1>
-<div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fuad-ajibola-5a0034166" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/adegoke-fuad-ajibola-5a0034166/"> Adegoke Fuad Ajibola</a></div>
+<div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fuad-ajibola-5a0034166" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/adegoke-fuad-ajibola-5a0034166/">Akanle Jesus</a></div>
     
-<h1>Welcome To ALIPHATIC'S Profile👽</h1>
+<h1>Welcome To JESUS'S Profile</h1>
 
 
 
 ###   **What's my current role in tech?** </h2>
-       { fullStackDeveloper | Blockchain Todler } 
+       { Frontend Developer | Data Enthusiast } 
 
-###   **Founder/C.E.O of ANTAPEX** </h2>
-#### Follow ANTAPEX via;
-<a href="https://github.com/ANTAPEX"><img src="images/github.png" width="60" /></a>
-<a href="https://www.linkedin.com/company/the-antapex/"><img src="images/linkedin.png" width="60" /></a>
-
+###   **Student, NITHUB** </h2>
+#### Follow JESUS via;
+<a href="https://github.com/JesusOfLagos"><img src="images/github.png" width="60" /></a>
 
 
-#### Connect with me 
-<a href="https://www.linkedin.com/in/adegoke-fuad-ajibola-5a0034166/"><img src="images/linkedin.png" width="60" /></a>
-<a href="https://twitter.com/AdegokeFuad"><img src="images/twitter.png" width="60" /></a>
-<a href="https://www.instagram.com/adegokefuad1/"><img src="images/ig.png" width="70" /></a>
+
+#### Connect with JESUS via; 
+<a href="https://www.linkedin.com/in/jesusoflagos/"><img src="images/linkedin.png" width="60" /></a>
+<a href="https://twitter.com/forjesusoflagos"><img src="images/twitter.png" width="60" /></a>
+<a href="https://www.instagram.com/akanlejesus/"><img src="images/ig.png" width="70" /></a>
 
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 #### About
-Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
+Here are some basic things to know about Jesus👳‍♂;
 
-- 🔭 I’m currently working on acquiring DSA skills,
+- 🔭 I’m currently working on my Content skills,
 - 🌱 I’m currently exploring Fullstack Web Development,
-- 👯 I’m looking for people to contribute to my projects.
-- 🤔 I’m looking for help with expanding my community,
 - 💬 Ask me about anything🌚,
-- 📫 How to reach me: Email: adegokefuad1@gmail.com, Phone: +2347053539948,
-- 😄 Pronouns: He/Him/His,
-- ⚡ Fun fact: I love Gaming.
+- 📫 How to reach me: Email: jesuswrites20043@gmail.com, Phone: +234 913 216 4480,
+- ⚡ Fun fact: I dislike Gaming.
 
 #### My Core Languages
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
@@ -43,12 +39,8 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 <code><img src="images/dart.png" width="65" title="Dart" /></code>
 
 #### Frameworks/Libraries I Use
-<code><img src="images/B.png" width="70" title="Bootstrap" /></code>
-<code><img src="images/Bulma.png" width="110" title="Bulma" /></code>  <code><img src="images/jQuery.png" width="65" title="jQuery" /></code>  
-<code><img src="images/react.png" width="80" title="React" /></code>
-<code><img src="images/api.jpg" width="70" title="API" /></code>
+<code><img src="images/B.png" width="70" title="Bootstrap" /></code>  
 <code><img src="images/json.png" width="70" title="JSON" /></code>
-<code><img src="images/nodemon.png" width="80" title="Nodemon" /></code>
 <code><img src="images/express.png" width="65" title="Express" /></code>
 <code><img src="images/flutter.png" width="65" title="Flutter" /></code>
 
@@ -60,8 +52,7 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 <!-- <code><img src="images/power.png" width="80" title="Powershell" /></code> -->
 <code><img src="images/command.png" width="70" title="Commandprompt" /></code>
 <code><img src="images/R.png" width="50" title="NodeJS" /></code>
-<code><img src="images/postman.png" width="60" title="Postman API" /></code>
-<code><img src="images/figma.jpeg" width="60" title="Figma" /></code>
+
              
              
        
