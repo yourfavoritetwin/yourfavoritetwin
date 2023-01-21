@@ -19,6 +19,7 @@
 #### Connect with JESUS via; 
 <a href="https://www.linkedin.com/in/jesusoflagos/"><img src="images/linkedin.png" width="60" /></a>
 <a href="https://twitter.com/forjesusoflagos"><img src="images/twitter.png" width="60" /></a>
+<a href="https://facebook.com/akanlejesus"><img src="facebook.jpg" width="60" /></a>
 
 
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
