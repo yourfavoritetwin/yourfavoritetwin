@@ -8,7 +8,7 @@
 ###   **What's my current role in tech?** </h2>
        { Frontend Developer | Data Enthusiast } 
 
-###   **Student, NITHUB** </h2>
+###   **Student, @NITHUB** </h2>
 #### Follow JESUS via;
 <a href="https://github.com/JesusOfLagos"><img src="images/github.png" width="60" /></a>
 
