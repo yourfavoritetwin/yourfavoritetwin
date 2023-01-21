@@ -11,13 +11,14 @@
 ###   **Student, @NITHUB** </h2>
 #### Follow JESUS via;
 <a href="https://github.com/JesusOfLagos"><img src="images/github.png" width="60" /></a>
+<a href="https://www.instagram.com/akanlejesus/"><img src="images/ig.png" width="60" /></a>
 
 
 
 #### Connect with JESUS via; 
 <a href="https://www.linkedin.com/in/jesusoflagos/"><img src="images/linkedin.png" width="60" /></a>
 <a href="https://twitter.com/forjesusoflagos"><img src="images/twitter.png" width="60" /></a>
-<a href="https://www.instagram.com/akanlejesus/"><img src="images/ig.png" width="70" /></a>
+
 
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
