@@ -24,7 +24,7 @@
 
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-#### About
+#### Abour
 Here are some basic things to know about Jesus👳‍♂;
 
 - 🔭 I’m currently working on my Content skills,
