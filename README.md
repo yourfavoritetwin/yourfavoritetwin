@@ -27,7 +27,7 @@
 #### About
 Here are some basic things to know about Jesus👳‍♂;
 
-- 🔭 I’m currently working on my Content skills,
+- 🔭 I’m currently working on my Content Management skills,
 - 🌱 I’m currently exploring Fullstack Web Development,
 - 💬 Ask me about anything🌚,
 - 📫 How to reach me: Email: jesuswrites20043@gmail.com, Phone: +234 913 216 4480,
