@@ -8,7 +8,7 @@
 ###   **What's my current role in tech?** </h2>
        { Frontend Developer | Data Enthusiast } 
 
-###   **Student, @NITHUB** </h2>
+###   **Student, @NITHUB.** </h2>
 #### Follow JESUS via;
 <a href="https://github.com/JesusOfLagos"><img src="images/github.png" width="60" /></a>
 <a href="https://www.instagram.com/akanlejesus/"><img src="images/ig.png" width="60" /></a>
@@ -44,6 +44,10 @@ Here are some basic things to know about Jesus👳‍♂;
 #### Top Languages
 
 <a href="https://github.com/JesusOfLagos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusOfLagos&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+#### GitHub Stats
+
+[![Jesus's github stats](https://github-readme-stats.vercel.app/api?username=JesusOfLagos&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
