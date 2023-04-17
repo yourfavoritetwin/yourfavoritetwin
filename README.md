@@ -1,6 +1,6 @@
 <h1>Hello world 👋🏾</h1>
     
-<h1>Welcome To JESUS'S Profile</h1>
+<h1>Welcome To JESUS' Profile</h1>
 
 
 
@@ -40,6 +40,7 @@ Here are some basic things to know about Jesus👳‍♂;
 <code><img src="images/python.png" width="60" title="Python" /></code>
 <code><img src="images/dart.png" width="65" title="Dart" /></code>
 
+
 #### Top Languages
 
 <a href="https://github.com/JesusOfLagos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusOfLagos&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
@@ -64,6 +65,7 @@ Here are some basic things to know about Jesus👳‍♂;
 <!-- <code><img src="images/power.png" width="80" title="Powershell" /></code> -->
 <code><img src="images/command.png" width="70" title="Commandprompt" /></code>
 <code><img src="images/R.png" width="50" title="NodeJS" /></code>
+<code><img src="images/" width="50" title="MongoDB" /></code>
 
              
              
