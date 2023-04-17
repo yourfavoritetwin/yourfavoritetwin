@@ -65,7 +65,7 @@ Here are some basic things to know about Jesus👳‍♂;
 <!-- <code><img src="images/power.png" width="80" title="Powershell" /></code> -->
 <code><img src="images/command.png" width="70" title="Commandprompt" /></code>
 <code><img src="images/R.png" width="50" title="NodeJS" /></code>
-<code><img src="images/h" width="50" title="MongoDB" /></code>
+<code><img src="Mongo PNG.jpeg" width="50" title="MongoDB" /></code>
 
              
              
