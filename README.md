@@ -5,7 +5,7 @@
 
 
 ###   **What's my current role in tech?** </h2>
-       { Frontend Developer | Data Enthusiast } 
+       { Software Engineer | Data Enthusiast } 
 
 ###   **Student, @<a href="https://github.com/Nithub-Unilag/">NITHUB</a>.** </h2>
 #### Follow JESUS via;
