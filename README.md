@@ -1,13 +1,13 @@
 <h1>Hello world 👋🏾</h1>
     
-<h1>Welcome To JESUS' Profile</h1>
+<h1>Welcome To Taiwo's Profile</h1>
 
 
 
 ###   **What's my current role in tech?** </h2>
-       { Software Engineer | ML } 
+       { Software engineer | Data Analyst } 
 
-###   **Student, @<a href="https://github.com/Nithub-Unilag/">NITHUB</a>.** </h2>
+###   **Instructor, @<a href="https://github.com/Nithub-Unilag/">NITHUB</a>.** </h2>
 #### Follow JESUS via;
 <a href="https://github.com/JesusOfLagos"><img src="images/github.png" width="60" /></a>
 <a href="https://www.instagram.com/akanlejesus/"><img src="images/ig.png" width="60" /></a>
@@ -27,10 +27,10 @@
 Here are some basic things to know about Jesus👳‍♂;
 
 - 🔭 I’m currently working on my Content Management skills,
-- 🌱 I’m currently exploring Fullstack Web Development,
+- 🌱 I’m currently exploring Backend Development,
 - 💬 Ask me about anything🌚,
-- 📫 How to reach me: Email: jesuswrites20043@gmail.com, Phone: +234 913 216 4480,
-- ⚡ Fun fact: I dislike Gaming.
+- 📫 How to reach me: Email: hiyandatope@gmail.com, Phone: +234 8171371344,
+- ⚡ Fun fact: I like reading.
 
 #### My Core Languages
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
